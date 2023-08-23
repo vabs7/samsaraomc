@@ -1,0 +1,56 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 20/06/2018 06:10
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-currency:before { content: "\f100"; }
+.flaticon-presentation:before { content: "\f101"; }
+.flaticon-money-1:before { content: "\f102"; }
+.flaticon-money:before { content: "\f103"; }
+.flaticon-key-1:before { content: "\f104"; }
+.flaticon-key:before { content: "\f105"; }
+.flaticon-salary:before { content: "\f106"; }
+.flaticon-idea:before { content: "\f107"; }
+.flaticon-businessman:before { content: "\f108"; }
+.flaticon-right-quote:before { content: "\f109"; }
+.flaticon-trophy:before { content: "\f10a"; }
+.flaticon-like:before { content: "\f10b"; }
+.flaticon-group:before { content: "\f10c"; }
+.flaticon-network:before { content: "\f10d"; }
+.flaticon-bell:before { content: "\f10e"; }
+.flaticon-question:before { content: "\f10f"; }
+.flaticon-call-center-operator:before { content: "\f110"; }
+.flaticon-rocket-1:before { content: "\f111"; }
+.flaticon-rocket:before { content: "\f112"; }
+.flaticon-external-link:before { content: "\f113"; }
+.flaticon-target:before { content: "\f114"; }
+.flaticon-insurance:before { content: "\f115"; }
+.flaticon-closed-envelope:before { content: "\f116"; }
+.flaticon-placeholder:before { content: "\f117"; }
+.flaticon-phone-call:before { content: "\f118"; }
